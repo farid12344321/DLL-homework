@@ -1,0 +1,18 @@
+C:\Users\Lenovo\Desktop\homework\c#\DLL homework\DLL homework\DLL homework\bin\Debug\net6.0\DLL homework.exe
+C:\Users\Lenovo\Desktop\homework\c#\DLL homework\DLL homework\DLL homework\bin\Debug\net6.0\DLL homework.deps.json
+C:\Users\Lenovo\Desktop\homework\c#\DLL homework\DLL homework\DLL homework\bin\Debug\net6.0\DLL homework.runtimeconfig.json
+C:\Users\Lenovo\Desktop\homework\c#\DLL homework\DLL homework\DLL homework\bin\Debug\net6.0\DLL homework.dll
+C:\Users\Lenovo\Desktop\homework\c#\DLL homework\DLL homework\DLL homework\bin\Debug\net6.0\DLL homework.pdb
+C:\Users\Lenovo\Desktop\homework\c#\DLL homework\DLL homework\DLL homework\obj\Debug\net6.0\DLL homework.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\homework\c#\DLL homework\DLL homework\DLL homework\obj\Debug\net6.0\DLL homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\homework\c#\DLL homework\DLL homework\DLL homework\obj\Debug\net6.0\DLL homework.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\homework\c#\DLL homework\DLL homework\DLL homework\obj\Debug\net6.0\DLL homework.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\homework\c#\DLL homework\DLL homework\DLL homework\obj\Debug\net6.0\DLL homework.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\homework\c#\DLL homework\DLL homework\DLL homework\obj\Debug\net6.0\DLL homework.dll
+C:\Users\Lenovo\Desktop\homework\c#\DLL homework\DLL homework\DLL homework\obj\Debug\net6.0\refint\DLL homework.dll
+C:\Users\Lenovo\Desktop\homework\c#\DLL homework\DLL homework\DLL homework\obj\Debug\net6.0\DLL homework.pdb
+C:\Users\Lenovo\Desktop\homework\c#\DLL homework\DLL homework\DLL homework\obj\Debug\net6.0\DLL homework.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\homework\c#\DLL homework\DLL homework\DLL homework\obj\Debug\net6.0\ref\DLL homework.dll
+C:\Users\Lenovo\Desktop\homework\c#\DLL homework\DLL homework\DLL homework\bin\Debug\net6.0\Service.dll
+C:\Users\Lenovo\Desktop\homework\c#\DLL homework\DLL homework\DLL homework\bin\Debug\net6.0\Service.pdb
+C:\Users\Lenovo\Desktop\homework\c#\DLL homework\DLL homework\DLL homework\obj\Debug\net6.0\DLL homework.csproj.CopyComplete
